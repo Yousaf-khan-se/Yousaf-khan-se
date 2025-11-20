@@ -36,7 +36,7 @@ I transform ideas into functional, scalable applications. My focus is on buildin
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for the stats to work!
+> **Note:** Replace `Yousaf-khan-se` with your actual GitHub username for the stats to work!
 
 ---
 
