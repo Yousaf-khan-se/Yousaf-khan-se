@@ -29,14 +29,14 @@ I transform ideas into functional, scalable applications. My focus is on buildin
 ### 📊 GitHub Activity (Grabber Stats!)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=buefy&hide_border=true" alt="Your GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=buefy&hide_border=true" alt="Your GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yousaf-khan-se&show_icons=true&theme=buefy&hide_border=true" alt="Your GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Your GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-> **Note:** Replace `Yousaf-khan-se` with your actual GitHub username for the stats to work!
+> **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for the stats to work!
 
 ---
 
