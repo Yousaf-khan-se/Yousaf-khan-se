@@ -30,13 +30,11 @@ I transform ideas into functional, scalable applications. My focus is on buildin
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Yousaf-khan-se&show_icons=true&theme=buefy&hide_border=true" alt="Your GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Your GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Your GitHub Streak" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
-
-> **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username for the stats to work!
 
 ---
 
