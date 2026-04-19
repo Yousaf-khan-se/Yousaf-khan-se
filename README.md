@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | MERN Stack Developer | FAST Nuces '26
 
-I transform ideas into functional, scalable applications. My focus is on building robust solutions primarily leveraging the **MERN (MongoDB, Express.js, React, Node.js)** stack. I love diving into complex problems and writing clean, well-documented code.
+I transform ideas into functional, scalable applications. My focus is on building high-performance systems primarily leveraging Node.js and Python. As a backend-heavy engineer, I specialize in architecting robust APIs and data models using Express.js and FastAPI. I am equally comfortable designing flexible schemas in MongoDB or implementing structured, relational logic with PostgreSQL. While my passion lies in solving complex server-side challenges and writing clean, well-documented code, my foundational experience in React ensures seamless full-stack integration and a cohesive end-user experience.
 
 ---
 
