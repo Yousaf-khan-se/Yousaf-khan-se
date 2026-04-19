@@ -18,11 +18,10 @@ I transform ideas into functional, scalable applications. My focus is on buildin
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Web Stack** | JavaScript, React.js, Node.js, HTML, CSS, Bootstrap |
-| **Backend/Frameworks** | **MERN**, Spring Boot, .NET WinForms |
-| **Languages** | Python, Java, C#, C/C++ |
-| **Databases** | MongoDB, SQL (DBMS tools) |
-| **Tools** | Git, GitHub, Figma, Linux |
+| **Frameworks/libraries** | MERN, FastAPI, JavaFX, Bootstrap, Tailwind |
+| **Languages** | Python, JavaScript, Java, HTML, CSS, C/C++, C# |
+| **Databases** | NoSQL(MongoDB), SQL (Postgres, MySQL) |
+| **Tools** | Git, GitHub, Figma, Linux, Vercel,  |
 
 ---
 
