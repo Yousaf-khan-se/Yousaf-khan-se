@@ -36,12 +36,12 @@ Lately I've been going deeper into AI engineering — building agent orchestrati
     <img src="https://streak-stats.demolab.com/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Yousaf's GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=7" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📬 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/muhammad-yousaf-se](https://www.linkedin.com/in/muhammad-yousaf-se)
-* **Email:** m.yousaf.khan.se@gmail.com
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yousaf-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yousaf-se)
+* **Email:** [![Email](https://img.shields.io/badge/Email-m.yousaf.khan.se%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.yousaf.khan.se@gmail.com)
