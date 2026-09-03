@@ -13,7 +13,7 @@ Lately I've been going deeper into AI engineering — building agent orchestrati
 * **Full Stack Developer Intern (MERN)** at Quaid Ventures — contributed to a tracking application's dashboard module (API integration, bug fixes) as part of an Agile team, with regular code reviews.
 * **CipherLink** — built an end-to-end encrypted chat app with client-side encryption (Web Crypto API), ECDH P-521 key exchange, AES-256-GCM messaging, and real-time infrastructure via Socket.io.
 * **Smart Exam Checker** (Final Year Project) — co-designed the architecture for an AI system that grades handwritten answer sheets, using a RAG pipeline for automated grading logic.
-* **JARVIS** (ongoing personal project) — a voice/text-driven Windows assistant using a multi-agent pipeline (UI automation, OCR, vision-language models) with multi-provider LLM support.
+* **JARVIS** (ongoing personal project, private repo) — a voice/text-driven Windows assistant using a multi-agent pipeline (UI automation, OCR, vision-language models) with multi-provider LLM support. [Watch the demo](https://lnkd.in/p/das-tNds)
 
 ---
 
