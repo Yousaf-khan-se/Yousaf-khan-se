@@ -36,7 +36,7 @@ Lately I've been going deeper into AI engineering — building agent orchestrati
     <img src="https://streak-stats.demolab.com/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Yousaf's GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 
 ---
