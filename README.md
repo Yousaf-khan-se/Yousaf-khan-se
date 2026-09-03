@@ -32,11 +32,11 @@ Lately I've been going deeper into AI engineering — building agent orchestrati
 ### 📊 GitHub Activity
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yousaf-khan-se&show_icons=true&theme=buefy&hide_border=true" alt="Yousaf's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Yousaf-khan-se&show_icons=true&theme=buefy&hide_border=true" alt="Yousaf's GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=Yousaf-khan-se&theme=buefy&hide_border=true" alt="Yousaf's GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yousaf-khan-se&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
